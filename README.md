@@ -6,7 +6,7 @@ A projekt 3 fő részből áll.
 
 1. Cigaretta ár kalkulátor
 
-Egyszerű számítással megmutathatja hogy mennyit költ hetente, havonta, évente az adott vásárló, melyhez a naponta elszívott cigarettaszámot kell beírnia, illetve opcionális módon azt, hogy mennyiért veszi dobozonként.
+Egyszerű számítással megmutathatja hogy mennyit költ hetente, havonta, évente az adott vásárló, melyhez a naponta elszívott cigarettaszámot kell beírnia, illetve opcionális módon azt, hogy mennyiért veszi dobozonként(opcionális, alap számítási ár=1700FT).
 A kalkulátoron belül elérhető 2 hivatkozás, 1 mely a weboldalunkra visz, és még1 amely a "leteszemacigit.hu" weboldalra.
 
 2. Weboldal
