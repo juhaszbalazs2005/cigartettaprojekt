@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+
+fieldset{
+    border-color: red;
+}
+
+input {
+    background-color: gray;
+}
