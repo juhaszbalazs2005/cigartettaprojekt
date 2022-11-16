@@ -13,4 +13,7 @@ fieldset{
 
 input {
     background-color: gray;
+    border: 2px;
+    border-color: red;
+    border-style: dotted;
 }
